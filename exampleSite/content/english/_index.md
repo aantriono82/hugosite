@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Catatan Belajar Seorang Guru Pembelajar"
+  content: "Website ini berisi catatan belajar seorang guru dalam mempelajari dunia website,sistem operasi, dan penulisan dokumen dengan LaTeX"
   image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://www.aantriono.com"
 
 # Features
 features:
