@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Catatan Belajar Seorang Guru Pembelajar"
-  content: "Website ini berisi catatan belajar seorang guru dalam mempelajari dunia website,sistem operasi, dan penulisan dokumen dengan LaTeX"
+  content: "Website ini berisi catatan belajar dalam mempelajari dunia website,sistem operasi, dan penulisan dokumen dengan LaTeX"
   image: "/images/banner.png"
   button:
     enable: true
