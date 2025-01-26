@@ -43,7 +43,7 @@
             class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
             {{ end }} md:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+           <!-- {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }} -->
           </div>
           <div
             class="{{ if not (modBool $i 2) }}
@@ -116,7 +116,7 @@
                         </blockquote>
                         <div class="mt-11 flex items-center">
                           <div class="text-dark dark:text-white">
-                            {{ partial "image" (dict "Src" .avatar "Size" "50x50" "Class" "rounded-full" "Alt" .name) }}
+                           <!-- {{ partial "image" (dict "Src" .avatar "Size" "50x50" "Class" "rounded-full" "Alt" .name) }} -->
                           </div>
                           <div class="ml-4">
                             <h3 class="h5 font-primary font-semibold">
