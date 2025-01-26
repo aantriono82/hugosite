@@ -30,9 +30,9 @@ features = [
 
 [author]
 name = "Aan Triono"
-homepage = "https://zeon.studio"
+#homepage = "https://zeon.studio"
 
 [original]
-author = "Zeon Studio"
-homepage = "https://zeon.studio"
-repo = "https://github.com/zeon-studio/themeplate"
+#author = "Zeon Studio"
+#homepage = "https://zeon.studio"
+#repo = "https://github.com/zeon-studio/themeplate"
