@@ -20,6 +20,10 @@ testimonials:
     avatar: "/images/avatar-sm.png"
     content: "Belajar penulisan dokumen dengan LaTeX"
 
+ - name: "Aan Triono"
+    designation: "Hikmah"
+    avatar: "/images/avatar-sm.png"
+    content: "Mutiara Hikmah dalam Kehidupan"
 
 # don't create a separate page
 _build:

@@ -1,6 +1,6 @@
 ---
 title: Aan Triono
-email: johndoe@email.com
+email: aantriono82@gmail.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
